@@ -47,3 +47,12 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
+
+header {
+    float: left;
+    background-color: #728095;
+    width: 99.4%;
+    padding: 0.3%;
+    color: white;
+    border-bottom: 5px solid #7a8aa2
+    
