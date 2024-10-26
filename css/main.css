@@ -11,7 +11,7 @@ body {
 }
 
 a {
-    color: chocolate;
+    color: #4a5f7e;
     text-decoration: none;
     transition: all.6s ease;
     -ms-transition: all.6s ease;
@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-    color: sandybrown;
+    color: #556e93;
     text-decoration: none;
     transition: all.6s ease;
     -ms-transition: all.6s ease;
