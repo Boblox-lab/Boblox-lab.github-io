@@ -20,7 +20,7 @@ a {
     -webkit-transition: all.6s ease;
 }
 
-a :hover{
+a:hover{
     color: sandybrown;
     text-decoration: none;
     transition: all.6s ease;
