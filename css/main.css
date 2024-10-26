@@ -11,7 +11,7 @@ body {
 }
 
 a {
-    color: rgb(74, 95, 126);
+    color: rgb(120, 155, 207);
     text-decoration: none;
     transition: all.6s ease;
     -ms-transition: all.6s ease;
@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-    color: rgb(85, 110, 147);
+    color: rgb(132, 171, 227);
     text-decoration: none;
     transition: all.6s ease;
     -ms-transition: all.6s ease;
